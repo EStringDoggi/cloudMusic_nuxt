@@ -1,0 +1,95 @@
+@import './variables.scss';
+
+html {
+  max-width: 414px;
+  margin: 0 auto;
+}
+
+
+
+.goback {
+  position: absolute;
+  top: 0.5em;
+  left: 0.5em;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1.5em;
+  height: 1.5em;
+  font-size: 2em;
+  color: #fff;
+  padding: 0.25em;
+  border-radius: 50%;
+  z-index: 9;
+  position: fixed;
+
+  i {
+    vertical-align: top;
+  }
+}
+
+.icon {
+  width: 2em;
+  height: 2em;
+  vertical-align: -0.30em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+.icon-md {
+  width: 3.5em;
+  height: 3.5em;
+  vertical-align: -0.30em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+.icon-lg {
+  width: 5.5em;
+  height: 5.5em;
+  vertical-align: -0.30em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+.icon-player-md {
+  width: 5.5em;
+  height: 5.5em;
+  vertical-align: -0.30em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+.icon-player-lg {
+  width: 7.5em;
+  height: 7.5em;
+  vertical-align: -0.30em;
+  fill: currentColor;
+  overflow: hidden;
+  position: relative;
+  top: -1em;
+}
+
+img {
+  border-radius: 2px;
+}
+
+//单行省略
+.text-hidden-1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+//多行省略
+.text-hidden-2 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.text-hidden-3 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}

@@ -1,0 +1,184 @@
+{
+  "id": "1658298",
+  "name": "音乐app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1318336",
+      "name": "宇宙星球",
+      "font_class": "yuzhouxingqiu-01",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1318338",
+      "name": "宇宙星球-06",
+      "font_class": "yuzhouxingqiu-06",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1318341",
+      "name": "宇宙星球-03",
+      "font_class": "yuzhouxingqiu-03",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1318342",
+      "name": "宇宙星球-07",
+      "font_class": "yuzhouxingqiu-07",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1318343",
+      "name": "宇宙星球-08",
+      "font_class": "yuzhouxingqiu-08",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "1318344",
+      "name": "宇宙星球-10",
+      "font_class": "yuzhouxingqiu-10",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1318346",
+      "name": "宇宙星球-11",
+      "font_class": "yuzhouxingqiu-11",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1318347",
+      "name": "宇宙星球-09",
+      "font_class": "yuzhouxingqiu-09",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "1318349",
+      "name": "宇宙星球-16",
+      "font_class": "yuzhouxingqiu-16",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1318350",
+      "name": "宇宙星球-14",
+      "font_class": "yuzhouxingqiu-14",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1318351",
+      "name": "宇宙星球-15",
+      "font_class": "yuzhouxingqiu-15",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1318359",
+      "name": "宇宙星球-22",
+      "font_class": "yuzhouxingqiu-22",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "12111468",
+      "name": "飞船",
+      "font_class": "feichuan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12115566",
+      "name": "雷达",
+      "font_class": "leida",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12115568",
+      "name": "宇航员",
+      "font_class": "yuhangyuan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "12115569",
+      "name": "外星球",
+      "font_class": "waixingqiu",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "12115579",
+      "name": "卫星",
+      "font_class": "weixing",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "12115580",
+      "name": "机械手臂",
+      "font_class": "jixieshoubi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "12036444",
+      "name": "上一首",
+      "font_class": "shangyishou",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "12036446",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "12036449",
+      "name": "下一首",
+      "font_class": "xiayishou",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "12036453",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "12036458",
+      "name": "喜欢01",
+      "font_class": "xihuan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "12036460",
+      "name": "音频列表",
+      "font_class": "yinpinliebiao",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12036462",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}
