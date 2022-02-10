@@ -27,7 +27,7 @@
     "ava": "^3.0.0",
     "babel-plugin-module-resolver": "^3.2.0",
     "browser-env": "^3.2.5",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "require-extension-hooks": "^0.3.3",
     "require-extension-hooks-babel": "^1.0.0",
     "require-extension-hooks-vue": "^2.0.0",
